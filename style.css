@@ -151,10 +151,10 @@ profile-photo .img{
   font-size: 3rem; 
 }
 .profile-text p{
-  color:#e5e5e5;
+  color:black;
 }
 .profile-text .social i{
-  color : #e5e5e5;
+  color : black;
   font-size: 18px;
   margin-right: 10px;
   transition: 0.5s;
